@@ -25,7 +25,7 @@ My favorite quote is this from [*Marx*](https://www.marxists.org/archive/marx/wo
 5. Carnegie Mellon
 
 #### Picture of me
-
+![pic of BK](https://github.com/bbknudsen/hw01/blob/master/Images/IMG_3638.jpg)
 
 
 
